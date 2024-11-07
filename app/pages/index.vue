@@ -28,6 +28,7 @@ const color = useState(
 <template>
   <div class="centered">
     <h1 :style="{ color }">
+      try this
       {{ runtimeConfig.public.helloText }}
     </h1>
     <NuxtLink to="/" external> refresh me please </NuxtLink>
