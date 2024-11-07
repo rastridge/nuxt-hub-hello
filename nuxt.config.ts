@@ -10,7 +10,7 @@ export default defineNuxtConfig({
   runtimeConfig: {
     public: {
       // Can be overridden by NUXT_PUBLIC_HELLO_TEXT environment variable
-      helloText: "Hello from the Edge of Space 👋",
+      helloText: "Hello from Space 👋",
     },
   },
   // https://nuxt.com/docs/getting-started/upgrade#testing-nuxt-4
