@@ -31,7 +31,9 @@ const color = useState(
       try this
       {{ runtimeConfig.public.helloText }}
     </h1>
-    <NuxtLink to="/" external> refresh me please </NuxtLink>
+    <NuxtLink to="/" external>
+      refresh me please please please please
+    </NuxtLink>
   </div>
 </template>
 
